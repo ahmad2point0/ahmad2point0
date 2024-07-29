@@ -1,55 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Latest Medium Posts</title>
-  <style>
-    .post {
-      border: 1px solid #ddd;
-      margin: 10px;
-      padding: 10px;
-      border-radius: 5px;
-    }
-    .post h2 {
-      margin: 0 0 10px;
-    }
-    .post p {
-      margin: 0 0 10px;
-    }
-    .post a {
-      text-decoration: none;
-      color: #007acc;
-    }
-  </style>
-</head>
-<body>
-
 <div id="medium-posts"></div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    fetch('https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@code2point0')
-      .then(response => response.json())
-      .then(data => {
-        const items = data.items;
-        let html = '<div align="center">';
-        items.forEach((el, index) => {
-          if (index < 4) { // limit to 4 posts
-            html += `
-              <div class="post">
-                <h2>${el.title}</h2>
-                <p>${el.description}</p>
-                <a href="${el.link}" target="_blank">Read more</a>
-              </div>
-              <hr />
-            `;
-          }
-        });
-        html += '</div>';
-        document.getElementById('medium-posts').innerHTML = html;
+  fetch('https://medium.com/feed/@code2point0')
+    .then(response => response.text())
+    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+    .then(data => {
+      const items = data.querySelectorAll('item');
+      let html = '<div align="center">';
+      items.forEach((el, index) => {
+        if (index < 4) { // limit to 4 posts
+          html += `
+            <h2>${el.querySelector('title').textContent}</h2>
+            <p>${el.querySelector('description').textContent}</p>
+            <a href="${el.querySelector('link').textContent}" target="_blank">Read more</a>
+            <hr />
+          `;
+        }
       });
-  });
+      html += '</div>';
+      document.getElementById('medium-posts').innerHTML = html;
+    });
 </script>
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
@@ -89,10 +59,10 @@
   <a href="https://www.youtube.com/channel/UCNcwrHZvqU9UGe8aTaOrGIg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="mailto:aaziapk6@gmail.com" target="_blank">
+  <a href="aaziapk6@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ahmad2point0" target="_blank">
+  <a href="www.linkedin.com/in/ahmad2point0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/code2point0/" target="_blank">
@@ -117,9 +87,3 @@
 
 ###
 
-<div align="center">
-  <iframe src="https://medium.com/@code2point0/latest" width="600" height="400"></iframe>
-</div>
-
-</body>
-</html>
