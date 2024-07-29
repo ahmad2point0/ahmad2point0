@@ -1,26 +1,3 @@
-<div id="medium-posts"></div>
-
-<script>
-  fetch('https://medium.com/feed/@code2point0')
-    .then(response => response.text())
-    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-    .then(data => {
-      const items = data.querySelectorAll('item');
-      let html = '<div align="center">';
-      items.forEach((el, index) => {
-        if (index < 4) { // limit to 4 posts
-          html += `
-            <h2>${el.querySelector('title').textContent}</h2>
-            <p>${el.querySelector('description').textContent}</p>
-            <a href="${el.querySelector('link').textContent}" target="_blank">Read more</a>
-            <hr />
-          `;
-        }
-      });
-      html += '</div>';
-      document.getElementById('medium-posts').innerHTML = html;
-    });
-</script>
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
