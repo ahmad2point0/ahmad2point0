@@ -1,7 +1,8 @@
 <h2 align="center">Hi 👋! I'm Muhammad Ahmad, a Passionate Software Engineer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFDD40&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer+%7C+Tech+Enthusiast;React+Native+%7C+React+%7C+JavaScript+%7C+TypeScript;Python;Mobile+and+Web+Developer;Open+Source+Contributor;Tech+Content+Creator+%F0%9F%93%BA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFDD40&center=true&vCenter=true&width=550&height=35&lines=🚀+Software+Engineer+|+Tech+Enthusiast;💻+React+Native+|+React+|+TypeScript+|+JavaScript;🐍+Python+|+Full-Stack+Developer;📱+Mobile+&+Web+App+Developer;🛠️+Open+Source+Contributor;🎥+Tech+Content+Creator+|+YouTuber" />
+
 </p>
 
 ---
