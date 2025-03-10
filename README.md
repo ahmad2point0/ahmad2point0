@@ -18,7 +18,7 @@
 
 ## 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css,tailwind,bootstrap,python,nodejs,mongodb,express,firebase,git,github,vscode,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css,tailwind,bootstrap,python,nodejs,mongodb,express,firebase,git,github,vscode,androidstudio,figmagit,kubernetes,docker,c,vim" />
 </p>
 
 ---
@@ -50,13 +50,6 @@
 
 ---
 
-## 📊 **Contribution Graph**
-<p align="center">
-<img src="https://github.com/ahmad2point0/ahmad2point0/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ## 🔍 **Top Showcased Repositories**
 <p align="center">
   <a href="https://github.com/ahmad2point0/Planty">
@@ -73,7 +66,7 @@
 ---
 
 ## 🎯 **Fun Facts**
-- 💡 I love building innovative solutions with React Native & Next.js.
+- 💡 I love building innovative solutions with React Native, React.js & Nest.js.
 - 🚀 My dream is to build my own tech company, **Code2Point0**.
 - 🎥 I create tech content on YouTube, TikTok & Instagram.
 - 🎮 I enjoy playing Valorant and streaming on Twitch.
