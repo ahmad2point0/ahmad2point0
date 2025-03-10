@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! I'm Muhammad Ahmad, a Passionate Software Engineer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFDD40&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer+%7C+Tech+Enthusiast;React+Native+%7C+React+%7C+JavaScript+%7C+TypeScript+%7C+Python;Mobile+and+Web+Developer;Open+Source+Contributor;Tech+Content+Creator+%F0%9F%93%BA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFDD40&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer+%7C+Tech+Enthusiast;React+Native+%7C+React+%7C+JavaScript+%7C+TypeScript;Python;Mobile+and+Web+Developer;Open+Source+Contributor;Tech+Content+Creator+%F0%9F%93%BA" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ## 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css,tailwind,bootstrap,python,nodejs,mongodb,express,firebase,git,github,vscode,androidstudio,figma,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css,tailwind,bootstrap,python,nodejs,mongodb,express,firebase,git,github,vscode,androidstudio,figma,kubernetes,docker,c,vim,bun,nestjs" />
 </p>
 
 ---
