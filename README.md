@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! I'm Muhammad Ahmad, a Passionate Software Engineer</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFDD40&center=true&vCenter=true&width=550&height=35&lines=🚀+Software+Engineer+|+Tech+Enthusiast;💻+React+Native+|+React+|+TypeScript+|+JavaScript;🐍+Python+|+Full-Stack+Developer;📱+Mobile+&+Web+App+Developer;🛠️+Open+Source+Contributor;🎥+Tech+Content+Creator+|+YouTuber" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFDD40&center=true&vCenter=true&width=550&height=35&lines=🚀+Software+Engineer+|+Tech+Enthusiast;💻+React+Native+|+React+|+TypeScript;🐍+Python+|+Full-Stack+Developer;📱+Mobile+&+Web+App+Developer;🛠️+Open+Source+Contributor;🎥+Tech+Content+Creator+|+YouTuber" />
 
 </p>
 
@@ -27,7 +27,7 @@
 ## 📺 **Content & Socials**
 <p align="center">
   <a href="https://www.youtube.com/channel/UCNcwrHZvqU9UGe8aTaOrGIg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" alt="YouTube" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" height="40" alt="YouTube" />
   </a>
   <a href="mailto:aaziapk6@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Gmail" />
