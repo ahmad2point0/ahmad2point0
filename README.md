@@ -1,60 +1,67 @@
+<h2 align="center">Hi 👋! I'm Muhammad Ahmad, a Passionate Software Engineer</h2>
 
-<h2 align="left">Hi 👋! My name is Muhammad Ahmad and I'm a Software Engineer</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFDD40&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer+%7C+Tech+Enthusiast;React+Native+%7C+React+%7C+JavaScript+%7C+Python;Mobile+and+Web+Developer;Open+Source+Contributor;Tech+Content+Creator+%F0%9F%93%BA" />
+</p>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad2point0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad2point0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad2point0&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad2point0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad2point0&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🛠 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css,tailwind,bootstrap,python,nodejs,mongodb,express,firebase,git,github,vscode,androidstudio,figma" />
+</p>
 
-###
+---
 
-<div align="left">
+## 🎥 **Content & Socials**
+<p align="center">
   <a href="https://www.youtube.com/channel/UCNcwrHZvqU9UGe8aTaOrGIg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="aaziapk6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:aaziapk6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ahmad2point0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/code2point0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://medium.com/@code2point0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://www.facebook.com/code2point0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://stackoverflow.com/users/26371590/code2point0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/badge/Stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+## 📈 **Contribution Graph**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmad2point0/ahmad2point0/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
+</p>
 
+---
+
+## 🎯 **Fun Facts**
+- 💡 I love building innovative solutions with React Native & Next.js.
+- 🚀 My dream is to build my own tech company, **Code2Point0**.
+- 🎥 I create tech content on YouTube, TikTok & Instagram.
+- 🕹️ I enjoy playing Valorant and streaming on Twitch.
+
+---
+
+💬 **Let's connect!** Drop a message on any platform, and let's talk tech! 🚀✨
