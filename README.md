@@ -56,7 +56,7 @@
 ## 🔍 **Top Showcased Repositories**
 <p align="center">
   <a href="https://github.com/ahmad2point0/Planty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=smartInvest&theme=dracula&hide_border=false" alt="Planty" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=hamadweb.github.io&theme=dracula&hide_border=false" alt="Planty" />
   </a>
   <a href="https://github.com/ahmad2point0/Resume-Builder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=Resume-Builder&theme=dracula&hide_border=false" alt="Resume Builder" />
