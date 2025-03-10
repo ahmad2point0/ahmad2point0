@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! I'm Muhammad Ahmad, a Passionate Software Engineer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFDD40&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer+%7C+Tech+Enthusiast;React+Native+%7C+React+%7C+JavaScript+%7C+Python;Mobile+and+Web+Developer;Open+Source+Contributor;Tech+Content+Creator+%F0%9F%93%BA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFDD40&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer+%7C+Tech+Enthusiast;React+Native+%7C+React+%7C+JavaScript+%7C+TypeScript+%7C+Python;Mobile+and+Web+Developer;Open+Source+Contributor;Tech+Content+Creator+%F0%9F%93%BA" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 ---
 
-## 🎥 **Content & Socials**
+## 📺 **Content & Socials**
 <p align="center">
   <a href="https://www.youtube.com/channel/UCNcwrHZvqU9UGe8aTaOrGIg" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -49,9 +49,24 @@
 
 ---
 
-## 📈 **Contribution Graph**
+## 📊 **Contribution Graph**
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmad2point0/ahmad2point0/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🔍 **Top Showcased Repositories**
+<p align="center">
+  <a href="https://github.com/ahmad2point0/Planty">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=Planty&theme=dracula&hide_border=false" alt="Planty" />
+  </a>
+  <a href="https://github.com/ahmad2point0/Resume-Builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=Resume-Builder&theme=dracula&hide_border=false" alt="Resume Builder" />
+  </a>
+  <a href="https://github.com/ahmad2point0/Carpool-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=Carpool-App&theme=dracula&hide_border=false" alt="Carpool App" />
+  </a>
 </p>
 
 ---
@@ -60,7 +75,7 @@
 - 💡 I love building innovative solutions with React Native & Next.js.
 - 🚀 My dream is to build my own tech company, **Code2Point0**.
 - 🎥 I create tech content on YouTube, TikTok & Instagram.
-- 🕹️ I enjoy playing Valorant and streaming on Twitch.
+- 🎮 I enjoy playing Valorant and streaming on Twitch.
 
 ---
 
