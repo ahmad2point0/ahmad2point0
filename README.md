@@ -9,7 +9,8 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad2point0&theme=dracula&hide_border=false" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad2point0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmad2point0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad2point0&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </p>
 
