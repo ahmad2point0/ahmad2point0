@@ -52,7 +52,7 @@
 
 ## 📊 **Contribution Graph**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmad2point0/ahmad2point0/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
+<img src="https://github.com/ahmad2point0/ahmad2point0/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ---
