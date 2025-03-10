@@ -55,7 +55,7 @@
 
 ## 🔍 **Top Showcased Repositories**
 <p align="center">
-  <a href="https://github.com/ahmad2point0/Planty">
+  <a href="https://github.com/ahmad2point0/hamadweb.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=hamadweb.github.io&theme=dracula&hide_border=false" alt="Planty" />
   </a>
   <a href="https://github.com/ahmad2point0/Resume-Builder">
