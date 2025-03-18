@@ -25,7 +25,7 @@
 ---
 
 ## 📺 **Content & Socials**
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<p align="center" style="display: flex;  gap: 20px;">
   <a href="https://www.youtube.com/channel/UCNcwrHZvqU9UGe8aTaOrGIg" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" height="40" alt="YouTube" />
   </a>
