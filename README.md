@@ -26,8 +26,8 @@
 
 ## 📺 **Content & Socials**
 <p align="center" style="display: flex;  gap: 20px;">
-  <a href="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" height="40" alt="YouTube" />
+  <a href="https://www.youtube.com/channel/UCNcwrHZvqU9UGe8aTaOrGIg" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" height="40" alt="YouTube" />
   </a>
   <a href="mailto:aaziapk6@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Gmail" />
