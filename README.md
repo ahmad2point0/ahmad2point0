@@ -30,7 +30,7 @@
     <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" height="40" alt="YouTube" />
   </a>
   <a href="mailto:aaziapk6@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Gmail" />
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="40" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ahmad2point0/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
