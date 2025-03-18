@@ -58,7 +58,7 @@
   <a href="https://github.com/ahmad2point0/hamadweb.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=hamadweb.github.io&theme=dracula&hide_border=false" alt="Planty" />
   </a>
-  <a href="https://github.com/ahmad2point0/Resume-Builder">
+  <a href="https://github.com/ahmad2point0/Text-Summarizer-NLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=Resume-Builder&theme=dracula&hide_border=false" alt="Resume Builder" />
   </a>
   <a href="https://github.com/ahmad2point0/Carpool-App">
