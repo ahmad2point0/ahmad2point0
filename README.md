@@ -25,8 +25,8 @@
 ---
 
 ## 📺 **Content & Socials**
-<p align="center" style="display: flex;  gap: 20px;">
-  <a href="https://www.youtube.com/channel/UCNcwrHZvqU9UGe8aTaOrGIg" target="_blank">
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCNcwrHZvqU9UGe8aTaOrGIg" target="_blank" style="margin:20px">
     <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" height="40" alt="YouTube" />
   </a>
   <a href="mailto:aaziapk6@gmail.com" target="_blank">
