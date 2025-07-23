@@ -61,8 +61,8 @@
   <a href="https://github.com/ahmad2point0/Text-Summarizer-NLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=Text-Summarizer-NLP&theme=dracula&hide_border=false" alt="Resume Builder" />
   </a>
-  <a href="https://github.com/ahmad2point0/Carpool-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=Carpool-App&theme=dracula&hide_border=false" alt="Carpool App" />
+  <a href="https://github.com/ahmad2point0/folder-structures">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmad2point0&repo=folder-structures&theme=dracula&hide_border=false" alt="folder-structures" />
   </a>
 </p>
 
