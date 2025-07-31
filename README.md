@@ -1,56 +1,36 @@
-<h2 align="center">Hi 👋! I'm Muhammad Ahmad, a Passionate Software Engineer</h2>
+<div align="center">
+  
+# Salam 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFDD40&center=true&vCenter=true&width=550&height=35&lines=🚀+Software+Engineer+|+Tech+Enthusiast;💻+React+Native+|+React+|+TypeScript;🐍+Python+|+Full-Stack+Developer;📱+Mobile+&+Web+App+Developer;🛠️+Open+Source+Contributor;🎥+Tech+Content+Creator+|+YouTuber" />
+Software Engineer @[**Ahmad2point0**](https://https://github.com/malaa-tech)
 
-</p>
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad2point0&theme=dracula&hide_border=false" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmad2point0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad2point0&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</p>
+More about me -> `npx ahmad2point0`
+</div>
 
 ---
 
-## 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css,tailwind,bootstrap,python,nodejs,mongodb,express,firebase,git,github,vscode,androidstudio,figma,kubernetes,docker,c,vim,bun,nestjs" />
-</p>
+  <i>Let's connect and chat!</i>
 
----
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ahmad2point0/" alt="Linkedin"><img src="https://raw.githubusercontent.com/alioh/alioh/master/linkedin-box-fill.png"></a>
+    <a href="https://twitter.com" alt="Twitter"><img src="https://raw.githubusercontent.com/alioh/alioh/master/twitter-fill.png"></a>
+    <a href="https://typedream.app/mzaien/" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
+  </p>
 
-## 📺 **Content & Socials**
+<!-- GitHub stats -->
+
+<b>⚡ My GitHub Statistics</b>
+
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCNcwrHZvqU9UGe8aTaOrGIg" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" height="40" alt="YouTube" />
-  </a>
-  <a href="mailto:aaziapk6@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="40" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmad2point0/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/code2point0/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@code2point0" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" height="40" alt="Medium" />
-  </a>
-  <a href="https://www.facebook.com/code2point0/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="40" alt="Facebook" />
-  </a>
-  <a href="https://stackoverflow.com/users/26371590/code2point0" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" height="40" alt="Stack Overflow" />
-  </a>
+<img height="180em" src="https://mz-github-stats.vercel.app/api?username=ahmad2point0&show_icons=true&hide_border=true&theme=calm" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=ahmad2point0&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=calm"/>
+
+_NOTE: Top languages are not an indicator skill, it's just a metric of how much **public** code I have written over the years._
+
 </p>
-
-
-
 ---
 
 ## 🔍 **Top Showcased Repositories**
