@@ -14,7 +14,7 @@ More about me -> `npx ahmad2point0`
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ahmad2point0/" alt="Linkedin"><img src="https://raw.githubusercontent.com/alioh/alioh/master/linkedin-box-fill.png"></a>
-    <a href="https://twitter.com" alt="Twitter"><img src="https://raw.githubusercontent.com/alioh/alioh/master/twitter-fill.png"></a>
+    <a href="https://x.com/Ahmad2point0" alt="Twitter"><img src="https://raw.githubusercontent.com/alioh/alioh/master/twitter-fill.png"></a>
     <a href="https://typedream.app/mzaien/" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
   </p>
 
