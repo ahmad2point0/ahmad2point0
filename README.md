@@ -23,10 +23,11 @@ More about me -> `npx ahmad2point0`
 <b>⚡ My GitHub Statistics</b>
 
 <p align="center">
-<img height="180em" src="https://mz-github-stats.vercel.app/api?username=ahmad2point0&show_icons=true&hide_border=true&theme=calm" />
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmad2point0&show_icons=true&hide_border=true&theme=calm" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=ahmad2point0&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=calm"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2point0&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=calm"/>
 
 _NOTE: Top languages are not an indicator skill, it's just a metric of how much **public** code I have written over the years._
 
