@@ -26,7 +26,6 @@ More about me -> `npx ahmad2point0`
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats-fast.vercel.app/api?username=ahmad2point0&show_icons=true&theme=radical" alt="GitHub Stats">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ahmad2point0&theme=radical" alt="GitHub Streak">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmad2point0&layout=compact&theme=radical" alt="Top Languages">
   
 </p>
 
